@@ -38,27 +38,48 @@ I'm improving my backend development skills and turning ideas into useful projec
 
 ![Featured Projects](assets/projects.svg)
 
-### 🧹 [CleanSpace](https://github.com/ReLaX-TG/CleanSpace)
 
-Full-stack demo for a fictional cleaning service, featuring:
-- Interactive service calculator and order requests
-- Admin CRM for managing incoming orders
-- Flask backend and SQLite database
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 CleanSpace
+
+Full-stack cleaning service demo with:
+- Service calculator
+- Admin CRM
 - Telegram notifications
-- Responsive frontend
+- Flask backend and SQLite
 
-**Stack:** Python · Flask · SQLite · JavaScript · HTML · CSS  
-[![View CleanSpace](https://img.shields.io/badge/View_Repository-CleanSpace-cb1029?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/CleanSpace)
+**Python · Flask · SQLite · JavaScript**
 
-### 💰 [Money Tracker](https://github.com/ReLaX-TG/money-tracker)
+<a href="https://github.com/ReLaX-TG/CleanSpace">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-FF2020?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-Personal finance tracker for recording income and expenses and exploring spending patterns.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** HTML · CSS · JavaScript  
+### 💰 Money Tracker
 
-[![View Code](https://img.shields.io/badge/VIEW_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/money-tracker)
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN-FF2020?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
+Personal finance tracker for:
+- Recording income and expenses
+- Managing transactions
+- Exploring spending patterns
 
+**HTML · CSS · JavaScript**
+
+<a href="https://github.com/ReLaX-TG/money-tracker">
+  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://relax-tg.github.io/money-tracker/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-FF2020?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ### 📁 More Projects
 
