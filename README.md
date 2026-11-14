@@ -18,7 +18,7 @@ I'm improving my backend development skills and turning ideas into useful projec
 
 ---
 
-## 👨‍💻 About Me
+![About Me](assets/about.svg)
 
 - 🎓 Learning full-stack web development, with a focus on **Python and Flask**.
 - 💻 Building responsive frontend interfaces, backend APIs and database-driven apps.
