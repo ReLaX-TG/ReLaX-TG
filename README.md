@@ -97,7 +97,7 @@ Personal finance tracker for:
 </tr>
 </table>
 
-### 📁 More Projects
+![More Projects](assets/more.svg)
 
 - [Finance Tracker](https://github.com/ReLaX-TG/Finance-Tracker)
 - [To-Do List](https://github.com/ReLaX-TG/todo-list)
