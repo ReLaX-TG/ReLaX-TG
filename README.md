@@ -25,7 +25,7 @@ I'm improving my backend development skills and turning ideas into useful projec
 - 🤖 Exploring AI-assisted development while improving my programming skills.
 - 🎯 My goal is to grow through hands-on projects and continuous learning.
 
-## 🛠️ Tech Stack
+![Tech Stack](assets/tech.svg)
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-20232a?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232a?style=flat-square&logo=css&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
