@@ -90,9 +90,7 @@ Personal finance tracker for:
 
 <p><strong>HTML · CSS · JavaScript</strong></p>
 
-<a href="https://github.com/ReLaX-TG/password-generator-pro">
-  <img src="https://img.shields.io/badge/VIEW_CODE-FF2020?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
-</a>
+<a href="https://github.com/ReLaX-TG/password-generator-pro"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code"></a> <a href="https://relax-tg.github.io/password-generator-pro/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF2020?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Live Demo"></a>
 
 </td>
 
