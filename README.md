@@ -138,9 +138,11 @@ I'm continuously improving my development skills through practical projects and 
 Interested in my projects or want to collaborate? Feel free to connect!
 
 <p align="center">
-  <a href="https://github.com/ReLaX-TG"><img src="https://img.shields.io/badge/GitHub-ReLaX--TG-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/I_ReLaX_I"><img src="https://img.shields.io/badge/Telegram-Message_Me-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=romahuh123%40gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/ReLaX-TG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/I_ReLaX_I"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=romahuh123%40gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
