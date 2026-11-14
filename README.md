@@ -2,6 +2,10 @@
 
 ![Viktor — Aspiring Full-Stack Web Developer](assets/banner.svg)
 
+<p align="center">
+  <img src="assets/hello.svg" alt="Hi, I'm Viktor!" width="100%">
+</p>
+
 **Aspiring Full-Stack Web Developer**
 
 I build practical web applications with Python, Flask, JavaScript, HTML and CSS.  
