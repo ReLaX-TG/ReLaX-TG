@@ -99,8 +99,31 @@ Personal finance tracker for:
 
 ![More Projects](assets/more.svg)
 
-- [Finance Tracker](https://github.com/ReLaX-TG/Finance-Tracker)
-- [To-Do List](https://github.com/ReLaX-TG/todo-list)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>💳 Finance Tracker</h3>
+<p>Personal finance application for tracking income and expenses.</p>
+
+<a href="https://github.com/ReLaX-TG/Finance-Tracker">
+  <img src="https://img.shields.io/badge/VIEW_CODE-FF2020?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✅ To-Do List</h3>
+<p>Simple task management application for organizing daily activities.</p>
+
+<a href="https://github.com/ReLaX-TG/todo-list">
+  <img src="https://img.shields.io/badge/VIEW_CODE-FF2020?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code">
+</a>
+
+</td>
+</tr>
+</table>
 
 ![GitHub Activity](assets/activity.svg)
 
