@@ -11,9 +11,6 @@
 I build practical web applications with Python, Flask, JavaScript, HTML and CSS.  
 I'm improving my backend development skills and turning ideas into useful projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ReLaX--TG-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG)
-[![Money Tracker](https://img.shields.io/badge/Live_Demo-Money_Tracker-cb1029?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
-
 </div>
 
 ---
