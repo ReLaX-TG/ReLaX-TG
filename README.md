@@ -63,8 +63,10 @@ Full-stack cleaning service demo with:
 ### 💰 Money Tracker
 
 Personal finance tracker for:
+
 - Recording income and expenses
 - Managing transactions
+- Tracking spending by category
 - Exploring spending patterns
 
 **HTML · CSS · JavaScript**
@@ -83,10 +85,14 @@ Personal finance tracker for:
 
 <h3>🔐 Password Generator Pro</h3>
 
-<p>
-Password generator for creating strong,
-customizable passwords.
-</p>
+<p>Password generator featuring:</p>
+
+<ul>
+  <li>Secure password generation</li>
+  <li>Customizable password settings</li>
+  <li>Password strength indicator</li>
+  <li>One-click password copying</li>
+</ul>
 
 <p><strong>HTML · CSS · JavaScript</strong></p>
 
@@ -102,7 +108,6 @@ customizable passwords.
 ### 📁 More Projects
 
 - [Finance Tracker](https://github.com/ReLaX-TG/Finance-Tracker)
-- [Password Generator Pro](https://github.com/ReLaX-TG/password-generator-pro)
 - [To-Do List](https://github.com/ReLaX-TG/todo-list)
 
 ![GitHub Activity](assets/activity.svg)
