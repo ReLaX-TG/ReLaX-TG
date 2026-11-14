@@ -16,6 +16,6 @@
         font-weight="bold"
         fill="#FF2020">Featured Projects</text>
 
-  <rect x="240" y="35" width="740" height="2"
+  <rect x="390" y="35" width="740" height="2"
         fill="url(#fade)"/>
 </svg>
