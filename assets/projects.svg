@@ -21,6 +21,6 @@
   </text>
 
   <rect x="410" y="35" width="570" height="2"
-        fill="url(#fade)"/>
+      fill="url(#fade)"/>
 
 </svg>
