@@ -1,5 +1,3 @@
-[ReLaX-TG-Profile-README.md](https://github.com/user-attachments/files/34857046/ReLaX-TG-Profile-README.md)<div align="center">
-
 # Hi, I'm Viktor! 👋
 
 ### Aspiring Full-Stack Web Developer
