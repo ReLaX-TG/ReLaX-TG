@@ -55,8 +55,10 @@ Full-stack demo for a fictional cleaning service, featuring:
 Personal finance tracker for recording income and expenses and exploring spending patterns.
 
 **Stack:** HTML · CSS · JavaScript  
-[![View Code](https://img.shields.io/badge/View_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/money-tracker)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-cb1029?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
+
+[![View Code](https://img.shields.io/badge/VIEW_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/money-tracker)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-OPEN-FF2020?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
+
 
 ### 📁 More Projects
 
