@@ -41,7 +41,7 @@ I'm improving my backend development skills and turning ideas into useful projec
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🧹 CleanSpace
 
@@ -58,7 +58,7 @@ Full-stack cleaning service demo with:
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 💰 Money Tracker
 
@@ -78,6 +78,24 @@ Personal finance tracker for:
 </a>
 
 </td>
+
+<td width="33%" valign="top">
+
+<h3>🔐 Password Generator Pro</h3>
+
+<p>
+Password generator for creating strong,
+customizable passwords.
+</p>
+
+<p><strong>HTML · CSS · JavaScript</strong></p>
+
+<a href="https://github.com/ReLaX-TG/password-generator-pro">
+  <img src="https://img.shields.io/badge/VIEW_CODE-FF2020?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+</a>
+
+</td>
+
 </tr>
 </table>
 
