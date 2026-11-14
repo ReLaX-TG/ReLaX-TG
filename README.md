@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34857743/README.md)
 <div align="center">
 
 ![Viktor — Aspiring Full-Stack Web Developer](assets/banner.svg)
