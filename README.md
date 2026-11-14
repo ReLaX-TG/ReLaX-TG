@@ -67,7 +67,7 @@ Personal finance tracker for:
 
 **HTML · CSS · JavaScript**
 
-<a href="https://github.com/ReLaX-TG/money-tracker"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code"></a> <a href="https://relax-tg.github.io/money-tracker/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF2020?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/ReLaX-TG/money-tracker"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Code"></a> <a href="[https://relax-tg.github.io/money-tracker/](https://github.com/ReLaX-TG/money-tracker/blob/main/index.html)"><img src="https://img.shields.io/badge/LIVE_DEMO-FF2020?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Live Demo"></a>
 
 </td>
 
