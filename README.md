@@ -17,10 +17,10 @@ I'm improving my backend development skills and turning ideas into useful projec
 
 ![About Me](assets/about.svg)
 
-- 🎓 Learning full-stack web development, with a focus on **Python and Flask**.
-- 💻 Building responsive frontend interfaces, backend APIs and database-driven apps.
-- 🤖 Exploring AI-assisted development while improving my programming skills.
-- 🎯 My goal is to grow through hands-on projects and continuous learning.
+<p><img src="assets/dot.svg" width="10" alt="dot"> 🎓 Learning full-stack web development, with a focus on Python and Flask.</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> 💻 Building responsive frontend interfaces, backend APIs and database-driven apps.</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> 🤖 Exploring AI-assisted development while improving my programming skills.</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> 🎯 My goal is to grow through hands-on projects and continuous learning.</p>
 
 ![Tech Stack](assets/tech.svg)
 
