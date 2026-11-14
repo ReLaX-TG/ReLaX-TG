@@ -127,8 +127,9 @@ Personal finance tracker for:
 
 ![GitHub Activity](assets/activity.svg)
 
-I'm actively developing my skills through practical projects.  
-[Explore my repositories and contributions](https://github.com/ReLaX-TG?tab=overview)
+I'm continuously improving my development skills through practical projects and hands-on learning.
+
+[![Explore My GitHub](https://img.shields.io/badge/EXPLORE_MY_GITHUB-FF2020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG?tab=overview)
 
 ---
 
