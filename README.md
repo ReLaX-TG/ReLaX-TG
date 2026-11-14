@@ -40,7 +40,7 @@ I'm improving my backend development skills and turning ideas into useful projec
 <tr>
 <td width="33%" valign="top">
 
-### 🧹 CleanSpace
+<h3>🧹 CleanSpace</h3>
 
 Full-stack cleaning service demo with:
 <p><img src="assets/dot.svg" width="10" alt="dot"> Service calculator</p>
@@ -57,7 +57,7 @@ Full-stack cleaning service demo with:
 </td>
 <td width="33%" valign="top">
 
-### 💰 Money Tracker
+<h3>💰 Money Tracker</h3>
 
 Personal finance tracker for:
 
@@ -145,7 +145,5 @@ Interested in my projects or want to collaborate? Feel free to connect!
 <div align="center">
 
 **Thanks for visiting my profile!** ❤️
-
-[![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-ReLaX--TG-cb1029?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG)
 
 </div>
