@@ -1,1 +1,15 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Viktor - Aspiring Full-Stack Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#100609"/><stop offset="0.55" stop-color="#2b080d"/><stop offset="1" stop-color="#7f0716"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3347"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <circle cx="1020" cy="60" r="160" fill="#fb182d" opacity=".24" filter="url(#glow)"/>
+  <path d="M30 270H1170M30 30H1170" stroke="#fb3347" stroke-opacity=".35"/>
+  <g opacity=".13" stroke="#ff6c79" fill="none"><path d="M640 0V300M690 0V300M740 0V300M790 0V300M840 0V300M890 0V300M940 0V300M990 0V300M1040 0V300M1090 0V300M1140 0V300"/></g>
+  <text x="70" y="128" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="url(#accent)">Aspiring Full-Stack Web Developer</text>
+  <text x="70" y="176" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#f3dadd">Building practical web apps with Python, Flask &amp; JavaScript</text>
+  <g transform="translate(945 105)" stroke="url(#accent)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M-40 0L-88 40L-40 80"/><path d="M55 0L103 40L55 80"/><path d="M27 -18L-10 100"/></g>
+  <rect x="1" y="1" width="1198" height="298" rx="18" stroke="#ff465a" stroke-opacity=".48" stroke-width="2" fill="none"/>
+</svg>
