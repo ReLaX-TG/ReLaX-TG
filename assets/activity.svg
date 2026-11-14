@@ -20,7 +20,7 @@
     GitHub Activity
   </text>
 
-  <rect x="365" y="35" width="615" height="2"
-        fill="url(#fade)"/>
+  <rect x="305" y="35" width="675" height="2"
+      fill="url(#fade)"/>
 
 </svg>
