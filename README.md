@@ -91,3 +91,12 @@ Another finance-oriented project in my web-development portfolio.
 [Explore my repositories](https://github.com/ReLaX-TG?tab=repositories)
 
 </div>
+
+---
+
+## 📈 My GitHub Activity
+
+I regularly work on improving my development skills
+and building practical projects.
+
+🔗 [Explore my GitHub contributions](https://github.com/ReLaX-TG)
