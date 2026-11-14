@@ -43,10 +43,10 @@ I'm improving my backend development skills and turning ideas into useful projec
 ### 🧹 CleanSpace
 
 Full-stack cleaning service demo with:
-- Service calculator
-- Admin CRM
-- Telegram notifications
-- Flask backend and SQLite
+<p><img src="assets/dot.svg" width="10" alt="dot"> Service calculator</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Admin CRM</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Telegram notifications</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Flask backend and SQLite</p>
 
 **Python · Flask · SQLite · JavaScript**
 
@@ -61,10 +61,10 @@ Full-stack cleaning service demo with:
 
 Personal finance tracker for:
 
-- Recording income and expenses
-- Managing transactions
-- Tracking spending by category
-- Exploring spending patterns
+<p><img src="assets/dot.svg" width="10" alt="dot"> Recording income and expenses</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Managing transactions</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Tracking spending by category</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Exploring spending patterns</p>
 
 **HTML · CSS · JavaScript**
 
@@ -78,12 +78,10 @@ Personal finance tracker for:
 
 <p>Password generator featuring:</p>
 
-<ul>
-  <li>Secure password generation</li>
-  <li>Customizable password settings</li>
-  <li>Password strength indicator</li>
-  <li>One-click password copying</li>
-</ul>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Secure password generation</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Customizable password settings</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> Password strength indicator</p>
+<p><img src="assets/dot.svg" width="10" alt="dot"> One-click password copying</p>
 
 <p><strong>HTML · CSS · JavaScript</strong></p>
 
