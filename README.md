@@ -36,7 +36,7 @@ I'm improving my backend development skills and turning ideas into useful projec
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-20232a?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-20232a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-## 🚀 Featured Projects
+![Featured Projects](assets/projects.svg)
 
 ### 🧹 [CleanSpace](https://github.com/ReLaX-TG/CleanSpace)
 
