@@ -1,12 +1,17 @@
+[README.md](https://github.com/user-attachments/files/34857743/README.md)
+<div align="center">
+
+![Viktor — Aspiring Full-Stack Web Developer](assets/banner.svg)
+
 # Hi, I'm Viktor! 👋
 
-### Aspiring Full-Stack Web Developer
+**Aspiring Full-Stack Web Developer**
 
-I build practical web applications with **Python, Flask, JavaScript, HTML and CSS**.
+I build practical web applications with Python, Flask, JavaScript, HTML and CSS.  
 I'm improving my backend development skills and turning ideas into useful projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ReLaX--TG-181717?style=for-the-badge&logo=github)](https://github.com/ReLaX-TG)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Money_Tracker-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
+[![GitHub](https://img.shields.io/badge/GitHub-ReLaX--TG-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG)
+[![Money Tracker](https://img.shields.io/badge/Live_Demo-Money_Tracker-cb1029?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
 
 </div>
 
@@ -14,89 +19,61 @@ I'm improving my backend development skills and turning ideas into useful projec
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning **full-stack web development**, especially Python and Flask
-- 🧩 Building frontend interfaces, backend APIs and database-driven apps
-- 🤖 Exploring **AI-assisted development** and improving my coding skills
-- 🎯 Goal: grow as a web developer through real, practical projects
+- 🎓 Learning full-stack web development, with a focus on **Python and Flask**.
+- 💻 Building responsive frontend interfaces, backend APIs and database-driven apps.
+- 🤖 Exploring AI-assisted development while improving my programming skills.
+- 🎯 My goal is to grow through hands-on projects and continuous learning.
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5 · CSS3 · JavaScript  
-**Backend:** Python · Flask  
-**Database:** SQLite  
-**Tools:** Git · GitHub · VS Code
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-20232a?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-20232a?style=flat-square&logo=css&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-<div align="center">
+**Backend & Database**  
+![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-20232a?style=flat-square&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-20232a?style=flat-square&logo=sqlite&logoColor=03A9F4)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+**Tools**  
+![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-20232a?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-20232a?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ## 🚀 Featured Projects
 
 ### 🧹 [CleanSpace](https://github.com/ReLaX-TG/CleanSpace)
 
-A full-stack portfolio project for a fictional cleaning service with:
-
-- Interactive multi-service calculator and order requests
-- Admin CRM for managing incoming requests
+Full-stack demo for a fictional cleaning service, featuring:
+- Interactive service calculator and order requests
+- Admin CRM for managing incoming orders
 - Flask backend and SQLite database
 - Telegram notifications
 - Responsive frontend
 
-**Stack:** Python · Flask · SQLite · JavaScript · HTML · CSS
-
-[![CleanSpace preview](https://raw.githubusercontent.com/ReLaX-TG/CleanSpace/main/docs/screenshots/homepage-en.png)](https://github.com/ReLaX-TG/CleanSpace)
-
-> CleanSpace is a learning/demo project, not a live commercial service.
+**Stack:** Python · Flask · SQLite · JavaScript · HTML · CSS  
+[![View CleanSpace](https://img.shields.io/badge/View_Repository-CleanSpace-cb1029?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/CleanSpace)
 
 ### 💰 [Money Tracker](https://github.com/ReLaX-TG/money-tracker)
 
-A personal finance tracker for managing income and expenses, with transaction categories and visual summaries.
+Personal finance tracker for recording income and expenses and exploring spending patterns.
 
 **Stack:** HTML · CSS · JavaScript  
-**[🌐 Live Demo](https://relax-tg.github.io/money-tracker/)**
+[![View Code](https://img.shields.io/badge/View_Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG/money-tracker)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-cb1029?style=for-the-badge&logo=githubpages&logoColor=white)](https://relax-tg.github.io/money-tracker/)
 
-### ✅ [To-Do List](https://github.com/ReLaX-TG/todo-list)
+### 📁 More Projects
 
-A simple task-management web application built with HTML, CSS and JavaScript.
+- [Finance Tracker](https://github.com/ReLaX-TG/Finance-Tracker)
+- [Password Generator Pro](https://github.com/ReLaX-TG/password-generator-pro)
+- [To-Do List](https://github.com/ReLaX-TG/todo-list)
 
-### 🔐 [Password Generator Pro](https://github.com/ReLaX-TG/password-generator-pro)
+## 📈 GitHub Activity
 
-A password generator project built with web technologies.
-
-### 📊 [Finance Tracker](https://github.com/ReLaX-TG/Finance-Tracker)
-
-Another finance-oriented project in my web-development portfolio.
-
-## 📚 Currently Learning
-
-- Backend development with Python and Flask
-- Building complete web applications
-- Working with databases and APIs
-- Improving code quality and project documentation
+I'm actively developing my skills through practical projects.  
+[Explore my repositories and contributions](https://github.com/ReLaX-TG?tab=overview)
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for visiting my profile!** ❤️
 
-[Explore my repositories](https://github.com/ReLaX-TG?tab=repositories)
+[![GitHub Profile](https://img.shields.io/badge/Explore_My_GitHub-ReLaX--TG-cb1029?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReLaX-TG)
 
 </div>
-
----
-
-## 📈 My GitHub Activity
-
-I regularly work on improving my development skills
-and building practical projects.
-
-🔗 [Explore my GitHub contributions](https://github.com/ReLaX-TG)
