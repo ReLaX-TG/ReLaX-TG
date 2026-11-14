@@ -64,7 +64,7 @@ Personal finance tracker for recording income and expenses and exploring spendin
 - [Password Generator Pro](https://github.com/ReLaX-TG/password-generator-pro)
 - [To-Do List](https://github.com/ReLaX-TG/todo-list)
 
-## 📈 GitHub Activity
+![GitHub Activity](assets/activity.svg)
 
 I'm actively developing my skills through practical projects.  
 [Explore my repositories and contributions](https://github.com/ReLaX-TG?tab=overview)
